@@ -22,32 +22,32 @@ function Footer() {
           <div className="footin4">
             <h5 id='infohead'>ABOUT US</h5>
             <ul id='list'>
-              <li>How it Works</li>
-              <li>Start Planning</li>
-              <li>About Us</li>
-              <li>Trip Inspiration</li>
-              <li>Contact Us</li>
+              <a href=''><li>How it Works</li></a>
+              <a href=''><li>Start Planning</li></a>
+              <a href=''><li>About Us</li></a>
+              <a href=''><li>Trip Inspiration</li></a>
+              <a href=''><li>Contact Us</li></a>
             </ul>
           </div>
           <div className="footin4">
             <h5 id='infohead'>FROM THE BLOG</h5>
             <ul id='list'>
-              <li>Traveling Guides</li>
-              <li>Planning Your Trip</li>
-              <li>Product Guides</li>
-              <li>Guest Posts</li>
-              <li>Destinations</li>
-              <li>Tours</li>
-              <li>Webinars</li>
+              <a href=''><li>Traveling Guides</li></a>
+              <a href=''><li>Planning Your Trip</li></a>
+              <a href=''><li>Product Guides</li></a>
+              <a href=''><li>Guest Posts</li></a>
+              <a href=''><li>Destinations</li></a>
+              <a href=''><li>Tours</li></a>
+              <a href=''><li>Webinars</li></a>
 
             </ul>
           </div>
-          <div className="footin4"><h5>Contact Info</h5>
-          <i class="fa-brands fa-whatsapp"></i>
-          <i class="fa-brands fa-instagram"></i>
-          <i class="fa-brands fa-facebook-f"></i>
-          <i class="fa-regular fa-envelope"></i>
-          <i class="fa-solid fa-location-dot"></i>
+          <div className="footin4"><h5 className='chead'>Contact Info</h5>
+          <a href=''><i class="fa-brands fa-whatsapp fa-xl i1"></i></a>
+          <a href=''><i class="fa-brands fa-instagram fa-xl i1"></i></a>
+          <a href=''><i class="fa-brands fa-facebook-f fa-xl i1"></i></a>
+          <a href=''><i class="fa-regular fa-envelope fa-xl i1"></i></a>
+          <a href=''><i class="fa-solid fa-location-dot fa-xl i1"></i></a>
           <br />
           <br />
           
