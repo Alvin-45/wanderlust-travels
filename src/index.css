@@ -2,6 +2,7 @@
     background-color: rgba(255, 255, 255, 0.384);
     color: white;
     padding-left: 40px;
+    border: 0px;
 }
 ::placeholder {
     color: white;
@@ -9,9 +10,10 @@
 .sbt{
     border-radius: 20px;
     height: 40px;
-    padding-left: 25px;
+    padding-left: 29px;
     padding-right: 25px;
     margin-left: -100px;
+    border: 0px;
 }
 
 /* sec */
@@ -239,4 +241,8 @@
   a{
     text-decoration: none;
     color: white;
+    scroll-behavior: smooth;
+    
   }
+
+  
